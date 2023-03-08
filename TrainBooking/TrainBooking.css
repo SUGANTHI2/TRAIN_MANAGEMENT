@@ -1,0 +1,19 @@
+.main{
+   background-color:rgba(255, 255, 255, 0.397); 
+    height: 100vh; 
+    color: black;
+    font-family: cursive;
+    width:30% ;
+    /* float: right; */
+}
+.top{
+    /* padding-top: 25px;
+    padding-bottom: 25px; */
+   /* padding-left: 900px;  */
+   background-image:url("https://steamuserimages-a.akamaihd.net/ugc/1658973170876492934/7F08A1C1AF1D1FC669339FBC7FBF744544DE0193/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+    /* height:500px;  */
+     background-attachment:fixed; 
+     background-repeat: no-repeat;
+    /* background-position: center;*/  
+     background-size: cover;  
+}
